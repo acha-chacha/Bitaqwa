@@ -12,4 +12,19 @@
     <string name="text_inspirasi">Inspirasi</string>
     <string name="text_jumlah_rupiah">Jumlah Rupiah</string>
     <string name="text_ok">OK</string>
+    <string name="button1">BUTTON1</string>
+    <string name="button2">BUTTON2</string>
+    <string name="button3">BUTTON3</string>
+    <string name="button4">BUTTON4</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="text_doa_pagi_malam"><![CDATA[Pagi & Malam]]></string>
+    <string name="text_doa_rumah">Rumah</string>
+    <string name="text_doa_makan"><![CDATA[Makanan & Minuman]]></string>
+    <string name="text_doa_perjalanan">Perjalanan</string>
+    <string name="text_doa_sholat">Sholat</string>
+    <string name="text_doa_etika_baik">Etika Baik</string>
 </resources>
